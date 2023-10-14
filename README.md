@@ -42,14 +42,14 @@ contract NewToken {
 }
 ```
 
-Here are the simplified instructions:
+
 
 4. Switch to the "Solidity Compiler" tab on the left-hand side and select "0.8.18" or a compatible version. Then, hit the "Compile newToken.sol" button.
 
 5. Once the code is compiled, go to the "Deploy & Run Transactions" tab on the left. Choose the "NewToken" contract from the dropdown menu and click "Deploy."
 
 6. You can now work with the contract by using the "Burn" or "Mint" function. Provide the necessary details. To check the results, monitor the "balances" and "totalAmount" variables.
-7. 
+ 
 ### Author
 
 Shashank Kumar
