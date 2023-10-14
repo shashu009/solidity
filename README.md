@@ -52,7 +52,7 @@ contract NewToken {
  
 ### Author
 
-#Shashank Kumar
+Shashank Kumar
 
 shashanksr762@gmail.com
 
