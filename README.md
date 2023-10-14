@@ -53,6 +53,7 @@ contract NewToken {
 ### Author
 
 Shashank Kumar
+
 shashanksr762@gmail.com
 
 ## License
