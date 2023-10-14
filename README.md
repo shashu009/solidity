@@ -1,6 +1,6 @@
 ## New Token 
 
-# Mnting and Burning Tokens
+# Minting and Burning Tokens
 
 This Solidity contract facilitates the creation and destruction of tokens. It demonstrates the fundamental concepts of creating and managing a token, including minting and burning tokens, using a basic conditional statement to ensure the validity of the operation.
 
