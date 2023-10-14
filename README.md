@@ -54,7 +54,7 @@ contract NewToken {
 
 #Shashank Kumar
 
-#shashanksr762@gmail.com
+shashanksr762@gmail.com
 
 ## License
 
